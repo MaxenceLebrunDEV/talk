@@ -14,7 +14,7 @@ It is built using WebRTC, so all your video, audio & text chat is peer-to-peer. 
 [Fork this repo](https://github.com/vasanthv/talk/fork) and then clone it:
 
 ```
-git clone https://github.com/<your_name>/talk.git
+git clone https://github.com/MaxenceLebrunDEV/talk.git
 ```
 
 `cd talk` and then install dependencies
